@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T16:47:08.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="oGnhXYbrD-dIrmtUtk7C" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-16T16:47:48.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Y3nwc7U-FWKuPIk6FFi9" version="21.6.8" type="github" pages="2">
   <diagram name="BasisLayout" id="InURAMPZYblSBHTQdXdy">
     <mxGraphModel dx="1720" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -844,7 +844,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Input Kanalen" id="z-SBVdxgGP-uEzUIeDF8">
+  <diagram name="Input Kanalen naar PA" id="z-SBVdxgGP-uEzUIeDF8">
     <mxGraphModel dx="4955" dy="3439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SO8IsCyp6yRcxZZydeDB-0" />
